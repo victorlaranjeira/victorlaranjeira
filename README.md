@@ -13,8 +13,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/046d2357-da90-4373-b9e3-7083dae5ea6c" />
-  <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2698f13e-f8a7-4e68-a524-7a4c1a2c3c9b" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/046d2357-da90-4373-b9e3-7083dae5ea6c" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/2698f13e-f8a7-4e68-a524-7a4c1a2c3c9b" />
 
 </div>
 
