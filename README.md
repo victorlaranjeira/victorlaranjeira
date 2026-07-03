@@ -1,46 +1,80 @@
 # Hello! I'm Victor Laranjeira 👋
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Studying_&_Practicing-brightgreen?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Programming_Foundations-blue?style=for-the-badge" alt="Programming Foundations Focus" />
+  <img src="https://img.shields.io/badge/Status-Looking_for_Internship-brightgreen?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Software_Development-blue?style=for-the-badge" alt="Software Development Focus" />
   <img src="https://img.shields.io/badge/Profile-Junior_Software_Developer-orange?style=for-the-badge" alt="Profile" />
+</p>
+
+<p align="center">
+  <i>Passionate about building reliable software, learning continuously, and turning ideas into practical solutions.</i>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I am a **Systems Analysis and Development (ADS)** student. Currently, my focus is on building a solid foundation in programming logic, data structures, software architecture, and databases.
+I am a **Systems Analysis and Development (ADS)** student. I'm currently focused on strengthening my software engineering fundamentals while gaining practical experience with different technologies. I'm comfortable learning new tools and adapting to the needs of each project.
 
-As I am in the early stages of my software development journey, **I don't have a preference for a specific language or tech stack yet**. I am highly adaptable and enthusiastic about learning new technologies, frameworks, and methodologies based on project requirements or company needs. My main goal is to grow as a versatile developer focused on solving real-world problems through clean and efficient code.
+I believe the best way to learn software engineering is by building real projects and continuously improving them. My goal is to become a software engineer capable of designing scalable, maintainable, and high-quality applications.
 
-* 🎓 **Education:** Associate's Degree in Systems Analysis and Development (ADS).
-* 💡 **Philosophy:** Master the logic and foundations first. The language is simply a tool to solve the problem.
-* 🌱 **Continuous Evolution:** Actively exploring development concepts across both **Backend** (C#, Python) and **Frontend** (React, TypeScript, JavaScript, HTML/CSS).
+* 🎓 **Education:** Associate's Degree in Systems Analysis and Development (ADS)
+* 💼 **Objective:** Seeking my first opportunity as a Software Developer through an internship or junior position.
+* ⚙️ **Core Focus:** Backend Development, Web APIs, and Software Engineering.
 
 ---
 
-### 🛠️ Technologies I've Been Exploring
+### 🏆 Highlights
 
-#### **Languages & Backend**
+- 🎓 **Systems Analysis and Development** student.
+- 💻 Building projects with **C#**, **.NET**, **React**, **TypeScript**, and **Python**.
+- 🚀 **Hackathon participant**, collaborating in multidisciplinary teams to deliver functional solutions within tight deadlines.
+- 📚 Dedicated to mastering **Software Engineering** best practices and clean coding.
+- 🌱 Constantly improving through personal and academic projects.
+
+---
+
+### 📚 Currently Learning
+
+- ⚡ **ASP.NET Core & Web APIs**
+- ⚡ **SOLID Principles & Clean Architecture**
+- ⚡ **Entity Framework Core & Databases**
+- ⚡ **Frontend Architecture**
+
+---
+
+### 💡 Practical Experience
+
+- 🚀 **BipStock**: Collaborated in the development of a stock management solution during a Hackathon, delivering a functional prototype within a limited timeframe while working in an agile team.
+- 💼 **Fluxo360**: Personal project focused on applying scalable frontend architecture and TypeScript to a financial management application.
+
+---
+
+### 🛠️ Tech Stack
+
+#### **Backend & APIs**
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/REST-API-0052CC?style=for-the-badge" alt="REST API" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-#### **Frontend & Styling**
+#### **Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+</p>
+
+#### **Frontend & UI**
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-#### **Tools & Environments**
+#### **Dev Tools & Platforms**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -50,23 +84,21 @@ As I am in the early stages of my software development journey, **I don't have a
 
 ---
 
-### 📂 Study Portfolio & Projects
+### 📂 Projects
 
-Here are some of the projects and experiments I have developed across various languages and environments:
+#### ⭐ Featured Projects
 
-#### ⚙️ Backend Development (APIs & Logic)
-* **[minimalApi](https://github.com/victorlaranjeira/minimalApi)**: A lightweight API built with **C# / .NET** to understand fast routing structures and dependency injection within the ASP.NET Core ecosystem.
-* **[aulaBackEndsFrameworks](https://github.com/victorlaranjeira/aulaBackEndsFrameworks)**: Practical backend experiments developed in **Python** during university frameworks classes.
+* **[fluxo360](https://github.com/victorlaranjeira/fluxo360)**: Financial management application designed to help users organize and track financial information, applying scalable frontend architecture with TypeScript and reusable components.
+* **[minimalApi](https://github.com/victorlaranjeira/minimalApi)**: Developed to simplify backend services by building a Minimal API with ASP.NET Core / C#, implementing dependency injection, REST endpoints, and clean project organization.
+* **[aplica-o-de-tarefas-](https://github.com/victorlaranjeira/aplica-o-de-tarefas-)**: Developed to simplify personal task organization, practicing React state management (Hooks), component life-cycle, and responsive layouts.
+* **[GameMataMosca](https://github.com/victorlaranjeira/GameMataMosca)**: Browser game developed to test user reflexes, implementing Vanilla JavaScript interval logic, custom events, and dynamic DOM rendering.
 
-#### 🌐 Web Interfaces & Applications
-* **[fluxo360](https://github.com/victorlaranjeira/fluxo360)**: A project built using **TypeScript** to learn how to apply static typing and structured architecture to frontend code.
-* **[aplica-o-de-tarefas-](https://github.com/victorlaranjeira/aplica-o-de-tarefas-)**: A dynamic task manager built in **React**, practicing state management (Hooks), component lifecycle, and responsiveness.
-* **[cadastro-de-pets](https://github.com/victorlaranjeira/cadastro-de-pets)**: A web application built with **JavaScript** focused on logic and data manipulation.
+#### 📚 Other Study & Class Projects
 
-#### 🎨 HTML, CSS & Game Logic
-* **[GameMataMosca](https://github.com/victorlaranjeira/GameMataMosca)**: An interactive game developed using **Vanilla JavaScript**, exercising interval logic, events, and dynamic DOM manipulation.
-* **[cafeteriaserenatto](https://github.com/victorlaranjeira/cafeteriaserenatto)**: A responsive coffee shop website built with the **Bootstrap 5** framework.
-* **[aluranewsletter](https://github.com/victorlaranjeira/aluranewsletter)**: A modern and fully responsive newsletter layout styled with **Tailwind CSS**.
+* **[cadastro-de-pets](https://github.com/victorlaranjeira/cadastro-de-pets)**: Web application built to streamline pet registration records, focusing on data submission, form validation, and simple list rendering.
+* **[aulaBackEndsFrameworks](https://github.com/victorlaranjeira/aulaBackEndsFrameworks)**: Backend routing and utility experiments developed in Python during university framework coursework.
+* **[cafeteriaserenatto](https://github.com/victorlaranjeira/cafeteriaserenatto)**: Responsive coffee shop page practicing UI styling and grid systems using Bootstrap 5.
+* **[aluranewsletter](https://github.com/victorlaranjeira/aluranewsletter)**: Modern landing page for newsletter delivery built to practice CSS styling with Tailwind CSS utility classes.
 
 ---
 
@@ -75,7 +107,6 @@ Here are some of the projects and experiments I have developed across various la
 <p align="center">
   <a href="https://github.com/victorlaranjeira">
     <img src="https://github-stats-extended.vercel.app/api?username=victorlaranjeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=victorlaranjeira&layout=compact&langs_count=7&theme=dracula" height="180" alt="Top Languages" />
   </a>
 </p>
 
@@ -83,7 +114,7 @@ Here are some of the projects and experiments I have developed across various la
 
 ### 📬 Connect with Me
 
-I'm always open to feedback, collaborative projects, and new opportunities!
+Open to internship opportunities, junior developer positions, and collaborative projects.
 
 <div>
   <a href="mailto:laranjeira.victor@gmail.com" target="_blank">
@@ -92,13 +123,10 @@ I'm always open to feedback, collaborative projects, and new opportunities!
   <a href="https://www.linkedin.com/in/victor-barros-laranjeira-ab3678186/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/victorlaranjeira_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 </div>
 
 ---
 
 <p align="center">
-  <i>"Every line of code is a step closer to achieving my goals."</i>
+  <i>"Learning by building. Improving with every project."</i>
 </p>
