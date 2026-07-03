@@ -45,7 +45,7 @@ As I am in the early stages of my software development journey, **I don't have a
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio" />
 </p>
 
 ---
@@ -74,8 +74,8 @@ Here are some of the projects and experiments I have developed across various la
 
 <p align="center">
   <a href="https://github.com/victorlaranjeira">
-    <img src="https://github-readme-stats.vercel.app/api?username=victorlaranjeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlaranjeira&layout=compact&langs_count=7&theme=dracula" height="180" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api?username=victorlaranjeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=victorlaranjeira&layout=compact&langs_count=7&theme=dracula" height="180" alt="Top Languages" />
   </a>
 </p>
 
