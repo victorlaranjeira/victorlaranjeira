@@ -74,12 +74,10 @@ Here are some of the projects and experiments I have developed across various la
 
 <p align="center">
   <a href="https://github.com/victorlaranjeira">
-    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=victorlaranjeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlaranjeira&layout=compact&langs_count=7&theme=dracula" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=victorlaranjeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlaranjeira&layout=compact&langs_count=7&theme=dracula" height="180" alt="Top Languages" />
   </a>
 </p>
-
-<br clear="both"/>
 
 ---
 
